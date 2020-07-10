@@ -10,7 +10,6 @@ Peter Alexander Stevens
 
 <div align="center">
 
-[![GitHub]](https://github.com/Thatguy560)
 [![LinkedIn]](https://www.linkedin.com/in/peter-alexander-stevens/)
 [![CodeWars]](https://www.codewars.com/users/Thatguy560)
 [![Email]](mailto:Peterstevens510@gmail.com)
