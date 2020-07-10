@@ -41,7 +41,7 @@ Over my time at Makers I worked on a variety of different projects both independ
 |<p align="center">[Acebook](https://github.com/Thatguy560/acebook-5Makerteers)</p><img width="1000" alt="" src="https://raw.githubusercontent.com/Thatguy560/CV/master/Assets/Screenshot%202020-05-20%20at%2018.46.14.png" height="130" width="160"> | A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.  | <p align="center">Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec</p><p align="center"></p>|
 |<p align="center">[IsItBusyOrNot](https://github.com/Peter2-71828/IsItBusyOrNot)</p><img width="1000" alt="" src="https://raw.githubusercontent.com/Thatguy560/CV/master/Assets/Screenshot%202020-06-04%20at%2019.48.56.png" height="130" width="160"> | In order to make social distancing more manageable, we created an App which allows a user to search for a location and see how busy it is. A Hackathon team project on the brief of COVID-19, made in 2 and a half days. Feel free to try it out yourself here https://is-it-busy-or-not.herokuapp.com/  | <p align="center">React, Express.js, Twitter API, OpenLayers API, Heroku</p>             
 
-All of my other projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
+All of my other projects can be found here on my [GitHub](https://github.com/Thatguy560?tab=repositories) Repositories.
 
 <!-- Consider skills relevent to software development. Then consider your best skills. You should demonstrate how capable you are at this skill with examples. -->
 ## Skills
