@@ -23,7 +23,7 @@ Peter Alexander Stevens
 ## Background
 <!-- Then a sentence about what you've achieved. -->
 <!-- And then a sentence about what exictes you about tech. -->
-Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
+Self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
 
 After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector.
 
