@@ -16,11 +16,10 @@ Peter Alexander Stevens
 
 </div>
 
-[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 </div>
 
-## Background
 <!-- Then a sentence about what you've achieved. -->
 <!-- And then a sentence about what exictes you about tech. -->
 Self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
