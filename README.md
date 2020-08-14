@@ -30,8 +30,6 @@ As someone who has had a passion for technology from an early age and after subs
 
 ## Projects
 
-Over my time at Makers I worked on a variety of different projects both independently or in a team.
-
 | Project       | Description                        | Tech Stack    |
 | ------------- | -----------------------------------| ------------- |
 | <p align="center">[Road To Discovery](https://github.com/Team-react/Playlist_App)</p> <img width="1000" alt="" src="https://raw.githubusercontent.com/Thatguy560/CV/master/Assets/Screenshot%202020-05-20%20at%2018.33.52.png" height="130" width="160">  |  Short on time and tired of hearing the same old playlists that you keep forgetting to update? No problem Introducing: ROAD TO DISCOVERY. This was my final group project at Makers Academy and took just under two weeks to build. Feel free to try it out yourself here https://road-to-discovery.herokuapp.com                      | <p align="center">React, Node, Javascript, Spotify Web API, Travis CI, Heroku</p> |
