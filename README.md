@@ -75,7 +75,7 @@ Throughout my time at Makers Academy, I was pair programming nearly every day of
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, Rails, JavaScript, React
+- Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
 - SQL with Postgres and MySQL
 - HTML, CSS, jQuery, Bootstrap
