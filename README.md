@@ -71,7 +71,7 @@ Throughout my time at Makers Academy, I was pair programming nearly every day of
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 ## Education
 
-#### Makers Academy, London Liverpool Street (January - May 2020)
+#### Makers Academy, London (January - May 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
